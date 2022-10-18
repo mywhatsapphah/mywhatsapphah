@@ -1,6 +1,6 @@
 FROM Mr.Hansamala/Drakerror:fullcontrol
 
-RUN git clone https://github.com/ravindu01manoj/Sew-Queen /root/QueenSewWhatsappBot
+RUN git clone https://github.com/mywhatsapphah/mywhatsapphah.git
 WORKDIR /root/DarkErrorWhatsappBot/
 ENV TZ=Asia/Colombo
 RUN npm install supervisor -g
